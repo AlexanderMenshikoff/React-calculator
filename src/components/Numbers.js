@@ -1,4 +1,4 @@
-import { Box, Button, Text } from "@chakra-ui/react";
+import { Box, Button } from "@chakra-ui/react";
 
 const Numbers = (props) => {
   const nums = Array.from(Array(10).keys()).map((number) => {
