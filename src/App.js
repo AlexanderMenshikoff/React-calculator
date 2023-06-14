@@ -12,6 +12,7 @@ const App = () => {
         counts={counts}
         result={result}
         setCounts={setCounts}
+        setResult={setResult}
       />
     </div>
   );
